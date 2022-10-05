@@ -1,4 +1,4 @@
-# Projektowanie-gier-w-srodowisku-UNITY
+# Projektowanie gier w środowisku UNITY
 
 ## Student
 * Imię i nazwisko: Dominik Lewczyński
