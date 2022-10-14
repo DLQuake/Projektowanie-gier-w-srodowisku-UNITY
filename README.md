@@ -21,3 +21,5 @@
     * Zadanie 4 - Wykonanie piramidy z cube
     ![Model of Piramid](./SecondProject-img/Piramid.png)
   * Prefabrykaty
+    * Zadanie 1 - Stworzenie nowej sceny i dodanie do niej obiekt typu Cube, a nastepnie dodanie kolejnego obiekt typu Cube będący potomkiem wcześniej dodanego obiektu.
+    * Zadanie 2 - Zmień skalę obiektu bazowego na 0.5 dla każdej osi. Czy rozmiar potomka się zmienił ? A czy właściwości scale potomka się zmieniły ? Dodaj niezależny obiekt cube o standardowej wielkości i umieść go przylegająco do obiektu potomnego na tej samej płaszczyźnie Y. Przemieść teraz obiekt potomny o 1 jednostkę do góry w osi Y. Czy przesunięcie odbyło się o 1 metr (domyślna wartość dla 1 jednostki) ? Zrozumienie tego konceptu Unity jest istotne.
