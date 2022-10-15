@@ -43,4 +43,5 @@
     * Zadanie 8 - Poprzez Package Manager zainstaluj Pro Builder (tu trzeba włączyć wyświetlanie Preview packages z opcji Advanced - poprzednie wersje edytora Unity). Następnie obejrzyj https://www.youtube.com/watch?v=PUSOg5YEflM oraz https://www.youtube.com/watch?v=YtzIXCKr8Wo&t. Możesz też poszukać dokumentacji.
 
     * Zadanie 9 - Za pomocą narzędzia Pro Builder stwórz model wieży zamkowej na wzór tej spod adresu https://imgur.com/r/lowpoly/X1oBRy8. Zadanie polega na próbie odwzorowania kształtu a nie materiału i ustawień oświetlenia.
+  
     ![Model of Piramid](./SecondProject-img/CastleTower.png)
