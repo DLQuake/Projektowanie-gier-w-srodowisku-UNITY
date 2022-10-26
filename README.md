@@ -13,7 +13,7 @@
 ### Ćwiczenie 2
 * Poznanie informacji o obiektach oraz komponentach w UNITY
 * Wykonanie zadań
-  * Obiekty gry i komponenty.
+	* Obiekty gry i komponenty.
     * Zadanie 1 - W zadaniu chodzi o to, aby dodac obiekt cube anstepnie dodac efekt Rigidbody. Po uruchomieniu można zauwazyć, że wartość pozycji y na obiekcie cube spada co sugeruje ze komponent zadziałał
 
     * Zadanie 2 - dodanie platofrmy na którą obiekt cube może "spaść"
@@ -23,7 +23,7 @@
     ![Model of Piramid](./images/lab_02/ObjectAndComponent.png)
 
     * Zadanie 4 - Wykonanie piramidy z cube
-  
+
     ![Model of Piramid](./images/lab_02/Piramid.png)
   * Prefabrykaty
     * Zadanie 1 - Stwórz nową scenę i dodaj do niej obiekt typu Cube. Dodaj kolejny obiekt typu Cube będący potomkiem wcześniej dodanego obiektu.
@@ -46,7 +46,7 @@
   
     ![Model of Piramid](./images/lab_02/CastleTower.png)
 
-<!-- ### Ćwiczenie 3
+### Ćwiczenie 3
   * Poznanie informcji o API i dodawaniu własnych skryptów
   * Wykonanie zadań:
     * Zadanie 1 - Przeczytaj artykuł https://docs.unity3d.com/Manual/VectorCookbook.html, który przypomni Ci zagadnienia związane z pojęciem wektorów odległości i sposobu na wykorzystanie tej wiedzy w środowisku Unity.
@@ -61,4 +61,4 @@
 
         * dodaj płaszczyznę o wymiarach 10x10
         * w momencie uruchomienia trybu play generuj 10 obiektów typu Cube, które umieszczaj losowo na płaszczyźnie, ale tak, żeby w danym miejscu nie znalazł się więcej niż jeden obiekt.
-    * Zadanie 6 - Korzystając z przykładu w dokumentacji UNITY dostępnej pod adresem https://docs.unity3d.com/ScriptReference/Mathf.SmoothDamp.html zaimplementuj go dla dwóch obiektów na swojej scenia i przetestuj zmieniając położenie w trybie game obiektu, który 'jest śledzony'. Przetestuj również metodę Mathf.Lerp. -->
+    * Zadanie 6 - Korzystając z przykładu w dokumentacji UNITY dostępnej pod adresem https://docs.unity3d.com/ScriptReference/Mathf.SmoothDamp.html zaimplementuj go dla dwóch obiektów na swojej scenia i przetestuj zmieniając położenie w trybie game obiektu, który 'jest śledzony'. Przetestuj również metodę Mathf.Lerp.
