@@ -62,3 +62,14 @@
         * dodaj płaszczyznę o wymiarach 10x10
         * w momencie uruchomienia trybu play generuj 10 obiektów typu Cube, które umieszczaj losowo na płaszczyźnie, ale tak, żeby w danym miejscu nie znalazł się więcej niż jeden obiekt.
     * Zadanie 6 - Korzystając z przykładu w dokumentacji UNITY dostępnej pod adresem https://docs.unity3d.com/ScriptReference/Mathf.SmoothDamp.html zaimplementuj go dla dwóch obiektów na swojej scenia i przetestuj zmieniając położenie w trybie game obiektu, który 'jest śledzony'. Przetestuj również metodę Mathf.Lerp.
+
+### Ćwiczenie 4
+  * Skrypty w Unity ciąg dalszy.
+  * Wykonanie zadań:
+    * Zadanie 1 - Wykorzystaj kod z listingu 1 i zmodyfikuj go tak, aby możliwe było:
+      * określenie w inspektorze ilości obiektów losowych do wegenerowania,
+      * pozycje x oraz z były pobierane adekwatnie dla obiektu platformy, do której skrypt jest dołączany (zakładamy, że tak będzie),
+      * dodaj do swojego projektu nowe materiały, tak, aby było 5 różnych do wykorzystania i przydzielaj losowo materiał w trakcie tworzenia nowego obiektu.
+    * Zadanie 2 - Stwórz nową scenę i zbuduj w niej testowy poziom wykorzystując ProBuilder. Stwórz podejścia o różnym kącie nachylenia, schody i ściany. Dodaj dowolny model postaci (może to być dość prosta bryła) i wykorzystaj przykładową implementację ruchu z wykorzystaniem CharacterController z dokumentacji Unity (tu). Przetestuj poziom (aktualnie ustawiając kamerę tak, żeby obejmowała cały poziom) i ewentualnie dostosuj parametry komponentu jeżeli nie można pokonać niektórych przeszkód (wzniesienia, schody).
+    * Zadanie 3 - Podepnij kamerę pod postać tak aby była jego obiektem potomnym i ponownie sprawdź działanie programu. Może to być widok FPP lub TPP.
+    * Zadanie 4 - Dodaj do skryptu LookAround ograniczenie obracania kamery do -90 i +90 stopni góra-dół (sprawdź metody clamp z API Unity).
