@@ -7,7 +7,7 @@ Tak wygląda model w blenderze
 
 Linki do plików
 - Model wykonany w Meshroom -> [link](./obierzyswiat.mg)
-- Model wykonany w Blenderze -> [link](./Pofajdok_Biznesman.blend)
+- Model wykonany w Blenderze -> [link](./Pofajdok_Biznesman.zip)
 
 
 A tak wygląda model Pofajdoka w rzeczywistości:
