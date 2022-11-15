@@ -66,4 +66,4 @@
 ### Ćwiczenie 5
 
 - Zadanie specjalne polegające na stworzeniu trójwymiarowego modelu Naszego wyboru za pośrednictwem oprogramowania Mechroom oraz Blender lub innego pozwalającego na edycję modeli 3D
-- Czy zadanie wykonane? - nie ❌
+- Czy zadanie wykonane? - tak ✅
