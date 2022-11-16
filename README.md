@@ -67,3 +67,13 @@
 
 - Zadanie specjalne polegające na stworzeniu trójwymiarowego modelu Naszego wyboru za pośrednictwem oprogramowania Mechroom oraz Blender lub innego pozwalającego na edycję modeli 3D
 - Czy zadanie wykonane? - tak ✅
+
+
+### Ćwiczenie 7
+- elementy gry 2D, część 1
+- Wykonanie zadań
+  - Zadanie 0 - tak ✅
+  - Zadanie 1 - tak ✅
+  - Zadanie 2 - nie ❌
+  - Zadanie 3 - nie ❌
+  - Zadanie 4 - nie ❌
