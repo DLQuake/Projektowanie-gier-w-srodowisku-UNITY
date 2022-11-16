@@ -74,6 +74,6 @@
 - Wykonanie zadań
   - Zadanie 0 - tak ✅
   - Zadanie 1 - tak ✅
-  - Zadanie 2 - nie ❌
+  - Zadanie 2 - tak ✅
   - Zadanie 3 - nie ❌
   - Zadanie 4 - nie ❌
