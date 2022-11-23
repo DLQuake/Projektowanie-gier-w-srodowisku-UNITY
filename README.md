@@ -68,6 +68,15 @@
 - Zadanie specjalne polegające na stworzeniu trójwymiarowego modelu Naszego wyboru za pośrednictwem oprogramowania Mechroom oraz Blender lub innego pozwalającego na edycję modeli 3D
 - Czy zadanie wykonane? - tak ✅
 
+### Ćwiczenie 6
+- Lab 6 - Wykrywanie i obsługa kolizji.
+- Wykonanie zadań
+  - Zadanie 1 - nie ❌
+  - Zadanie 2 - nie ❌
+  - Zadanie 3 - nie ❌
+  - Zadanie 4 - nie ❌
+  - Zadanie 5 - nie ❌
+  - Zadanie 6 - nie ❌
 
 ### Ćwiczenie 7
 - elementy gry 2D, część 1
