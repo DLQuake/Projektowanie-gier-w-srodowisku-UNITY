@@ -72,7 +72,7 @@
 ### Ćwiczenie 6
 - Wykrywanie i obsługa kolizji.
 - Wykonanie zadań
-  - Zadanie 1 - nie ❌
+  - Zadanie 1 - tak ✅
   - Zadanie 2 - nie ❌
   - Zadanie 3 - nie ❌
   - Zadanie 4 - nie ❌
