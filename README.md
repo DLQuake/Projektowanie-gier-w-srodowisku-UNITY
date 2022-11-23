@@ -69,7 +69,7 @@
 - Czy zadanie wykonane? - tak ✅
 
 ### Ćwiczenie 6
-- Lab 6 - Wykrywanie i obsługa kolizji.
+- Wykrywanie i obsługa kolizji.
 - Wykonanie zadań
   - Zadanie 1 - nie ❌
   - Zadanie 2 - nie ❌
