@@ -77,10 +77,9 @@
   - Zadanie 3 - nie ❌
   - Zadanie 4 - nie ❌
   - Zadanie 5 - nie ❌
-  - Zadanie 6 - nie ❌
 
 ### Ćwiczenie 7
-- elementy gry 2D, część 1
+- Elementy gry 2D, część 1
 - Wykonanie zadań
   - Zadanie 0 - tak ✅
   - Zadanie 1 - tak ✅
