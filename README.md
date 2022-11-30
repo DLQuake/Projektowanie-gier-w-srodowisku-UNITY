@@ -86,3 +86,10 @@
   - Zadanie 2 - tak ✅
   - Zadanie 3 - nie ❌
   - Zadanie 4 - nie ❌
+
+### Ćwiczenie 8
+- Elementy gry 2D, część 1
+- Wykonanie zadań
+  - Zadanie 1 - nie ❌
+  - Zadanie 2 - nie ❌
+  - Zadanie 3 - nie ❌
