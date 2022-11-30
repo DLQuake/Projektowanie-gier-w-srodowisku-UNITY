@@ -90,7 +90,7 @@
   - Zadanie 4 - nie ❌
 
 ### Ćwiczenie 8
-- Elementy gry 2D, część 1
+- Tworzenie gry 2D, część 2
 - Wykonanie zadań
   - Zadanie 1 - nie ❌
   - Zadanie 2 - nie ❌
