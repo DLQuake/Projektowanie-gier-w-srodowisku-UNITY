@@ -8,18 +8,23 @@
 
 ### Ćwiczenie 1
 
-- Poznanie czym jest UNITY
-- Zapoznanie się interfejsem środowiska pracy
-- Wykonanie zadań do wykonania
+- Instalacja i konfiguracja środowiska UNITY
+- Podstawy obsługi środowiska UnityEditor
+- Wykonanie zadań
+    - Zadanie 1 - tak ✅
+    - Zadanie 2 - tak ✅
+    - Zadanie 3 - tak ✅
   ![Model of Stonehenge](./images/lab_01/Stonehenge.png)
+    - Zadanie 4 - tak ✅
+    - Zadanie 5 - tak ✅
+    - Zadanie 6 - tak ✅
+    - Zadanie 7 - tak ✅
 
 ### Ćwiczenie 2
 
 - Poznanie informacji o obiektach oraz komponentach w UNITY
 - Wykonanie zadań
-
   - Obiekty gry i komponenty.
-
     - Zadanie 1 - tak ✅
     - Zadanie 2 - tak ✅
     - Zadanie 3 - tak ✅
@@ -31,7 +36,6 @@
     ![Model of Piramid](./images/lab_02/Piramid.png)
 
   - Prefabrykaty
-
     - Zadanie 1 - tak ✅
     - Zadanie 2 - tak ✅
     - Zadanie 3 - tak ✅
