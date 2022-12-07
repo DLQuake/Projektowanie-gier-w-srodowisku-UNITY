@@ -75,10 +75,10 @@
 - Wykrywanie i obsługa kolizji.
 - Wykonanie zadań
   - Zadanie 1 - tak ✅
-  - Zadanie 2 - nie ❌
-  - Zadanie 3 - nie ❌
-  - Zadanie 4 - nie ❌
-  - Zadanie 5 - nie ❌
+  - Zadanie 2 - tak ✅
+  - Zadanie 3 - tak ✅
+  - Zadanie 5 - tak ✅
+  - Zadanie 5 - tak ✅
 
 ### Ćwiczenie 7
 - Elementy gry 2D, część 1
@@ -95,3 +95,9 @@
   - Zadanie 1 - nie ❌
   - Zadanie 2 - nie ❌
   - Zadanie 3 - nie ❌
+
+### Ćwiczenie 9
+- Tworzenie gry 2D, część 3. Wrogowie. A* pathfinding
+- Wykonanie zadań
+  - Zadanie 1 - nie ❌
+  - Zadanie 2 - nie ❌
