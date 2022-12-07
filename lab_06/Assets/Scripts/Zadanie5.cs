@@ -4,15 +4,15 @@ using UnityEngine;
 
 public class Zadanie5 : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public CharacterController player;
+    private float launch_jump = 3.0f;
+    private Vector3 playerVelocity;
+    private float gravityValue = -9.81f;
 
-    // Update is called once per frame
-    void Update()
+
+    private void OnTriggerEnter(Collider other)
     {
-        
+        playerVelocity.y += Mathf.Sqrt(launch_jump * -3.0f * gravityValue);
+        player.Move(playerVelocity * Time.deltaTime);
     }
 }
