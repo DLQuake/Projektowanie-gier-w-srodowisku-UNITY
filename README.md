@@ -54,9 +54,9 @@
 - Wykonanie zadań:
   - Zadanie 1 - tak ✅.
   - Zadanie 2 - tak ✅
-  - Zadanie 3 - nie ❌
+  - Zadanie 3 - tak ✅
   - Zadanie 4 - tak ✅
-  - Zadanie 5 - nie ❌
+  - Zadanie 5 - tak ✅
   - Zadanie 6 - tak ✅
 
 ### Ćwiczenie 4

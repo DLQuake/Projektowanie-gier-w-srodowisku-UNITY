@@ -4,21 +4,38 @@ using UnityEngine;
 
 public class ScriptZadanie5 : MonoBehaviour
 {
-    // Instantiates prefabs in a circle formation
-    public GameObject prefab;
-    public int numberOfObjects = 10;
-    public float radius = 5f;
+    public GameObject Cube;
+    private int max = 10;
+
     void Start()
     {
-        for (int i = 0; i < numberOfObjects; i++)
+        List<Vector3> wspolrzedne = new List<Vector3>();
+        bool czyIstnieje = false;
+        for (int i=0; i<max; ++i)
         {
-            float angle = i * Mathf.PI * 2 / numberOfObjects;
-            float x = Mathf.Cos(angle) * radius;
-            float z = Mathf.Sin(angle) * radius;
-            Vector3 pos = transform.position + new Vector3(x, 0, z);
-            float angleDegrees = -angle*Mathf.Rad2Deg;
-            Quaternion rot = Quaternion.Euler(0, angleDegrees, 0);
-            Instantiate(prefab, pos, rot);
+            int x = Random.Range(-50, 50);
+            int z = Random.Range(-50, 50);
+            foreach(Vector3 coord in wspolrzedne)
+            {
+                if(coord == new Vector3(x,0.5f,z))
+                {
+                    czyIstnieje = true;
+                    break;
+                }
+                else
+                {
+                    czyIstnieje = false;
+                }
+            }
+
+            if(czyIstnieje)
+            {
+                --i;
+            }
+            else{
+                wspolrzedne.Add(new Vector3(x,0.5f,z));
+                Instantiate(Cube, new Vector3(x,0.5f,z), Quaternion.identity);
+            }
         }
     }
 }
