@@ -90,15 +90,15 @@
   - Zadanie 0 - tak ✅
   - Zadanie 1 - tak ✅
   - Zadanie 2 - tak ✅
-  - Zadanie 3 - nie ❌
-  - Zadanie 4 - nie ❌
+  - Zadanie 3 - tak ✅
+  - Zadanie 4 - tak ✅
 
 ### Ćwiczenie 8
 - Tworzenie gry 2D, część 2
 - Wykonanie zadań
-  - Zadanie 1 - nie ❌
-  - Zadanie 2 - nie ❌
-  - Zadanie 3 - nie ❌
+  - Zadanie 1 - tak ✅
+  - Zadanie 2 - tak ✅
+  - Zadanie 3 - tak ✅
 
 ### Ćwiczenie 9
 - Tworzenie gry 2D, część 3. Wrogowie. A* pathfinding
